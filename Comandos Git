@@ -31,3 +31,12 @@
 4 - git push  //envia para o github
 
 //-------------------Clonar repositório-------------------
+
+1 - abra o terminal em qualquer pasta de preferência
+
+2 - git clone "git@github.com:FerHe05/git.git"  //cole o link ssh disponibilizado pelo github. 
+
+//-------------------Verificar histórico de versões-------------------
+1 - git log //lista todas as versões
+
+2 - git log --oneline //lista todas as versões de forma resumida
