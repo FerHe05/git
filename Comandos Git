@@ -1,0 +1,33 @@
+//-------------------Enviar projeto para o github-------------------
+
+1 - Escolher a pasta ou arquivo para salvar no github;
+
+2 - Escolher a opção git bash here
+
+3 - ls   //para ver os arquivos escolhidos
+
+4 - git init  //cria um repositorio git na pasta, (cria um diretório de reversionamento).
+
+5 - add .  //envia arquivos para uma área temporária
+
+6 - git status  //mostra o status do projeto
+
+7 - git commit -m "nome da versão desejada" //salva uma nova versão no repositório git
+
+8 - git branch -M main //garante o nome da branch
+
+9 - git remote add origin "link ssh disponibilizado pelo github" //associa o projeto do computador ao do github
+
+10 - git push -u origin main // envia o arquivo para o github
+
+//-------------------Salvar uma nova versão do projeto-------------------
+
+1 - git status  //mostra as modificações
+
+2 - git add . //envia arquivos para uma área temporária
+
+3 - git commit -m "nome da versão desejada" //salva uma nova versão no repositório git
+
+4 - git push  //envia para o github
+
+//-------------------Clonar repositório-------------------
